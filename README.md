@@ -9,7 +9,7 @@ A PHP library to work with immutable complex numbers.
 
 ## Documentation
 
-The full documentation is at https://phpmath.github.io/complex/. Every release is described on the [releases page](https://github.com/phpmath/complex/releases).
+The full documentation is at https://phpmath.github.io/complex/. Every change is listed in the [changelog](CHANGELOG.md) and every release on the [releases page](https://github.com/phpmath/complex/releases).
 
 ## Install
 
